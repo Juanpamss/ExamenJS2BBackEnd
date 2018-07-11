@@ -1,5 +1,5 @@
 /**
- * Estudiante.js
+ * Juego.js
  *
  * @description :: A model definition.  Represents a database table/collection/etc.
  * @docs        :: https://sailsjs.com/docs/concepts/models-and-orm/models
@@ -9,36 +9,39 @@ module.exports = {
 
   attributes: {
 
-    nombre: {
+    nombreJuego:{
       type: 'string',
       required: true
     },
 
-    apellido: {
+    plataforma: {
       type: 'string',
       required: true
     },
 
-    fechaNacimiento: {
+    fechaLanzamiento: {
       type: 'string',
       required: true
     },
 
-    edad: {
-      type: 'number',
-      required: true
-    },
-
-    imagenEstudiante: {
+    precio: {
       type: 'string',
       required: true
     },
 
-    libros: {
-      collection: 'Libro',
-      via: 'estudianteIdFK'
+    estado: {
+      type: 'boolean',
+      required: true
+    },
+
+    imagenJuego: {
+      type: 'string',
+      required: true
+    },
+
+    desarrolladoraIdFK:{
+      model: 'Desarrolladora',
     }
-
 
   },
 

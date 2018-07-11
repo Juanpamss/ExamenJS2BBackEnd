@@ -1,5 +1,5 @@
 /**
- * Libro.js
+ * Desarrolladora.js
  *
  * @description :: A model definition.  Represents a database table/collection/etc.
  * @docs        :: https://sailsjs.com/docs/concepts/models-and-orm/models
@@ -9,28 +9,29 @@ module.exports = {
 
   attributes: {
 
-    nombreLibro:{
+    nombre: {
       type: 'string',
       required: true
     },
 
-    autor: {
+    ubicacion: {
       type: 'string',
       required: true
     },
 
-    fechaPublicacion: {
+    fechaCreacion: {
       type: 'string',
       required: true
     },
 
-    imagenLibro: {
+    imagenDesarrolladora: {
       type: 'string',
       required: true
     },
 
-    estudianteIdFK:{
-      model: 'Estudiante',
+    juegos: {
+      collection: 'Juego',
+      via: 'desarrolladoraIdFK'
     }
 
   },
