@@ -24,6 +24,16 @@ module.exports = {
       required: true
     },
 
+    precio: {
+      type: 'string',
+      required: true
+    },
+
+    estado: {
+      type: 'boolean',
+      required: true
+    },
+
     imagenJuego: {
       type: 'string',
       required: true

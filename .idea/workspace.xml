@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f230c369-81b3-4fad-9005-877ad84d6f58" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/controllers/EstudianteController.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/controllers/DesarrolladoraController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/controllers/LibroController.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/controllers/JuegoController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/models/Estudiante.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/models/Libro.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/models/Juego.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-examen2B/config/security.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/config/security.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-examen2B/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-examen2B/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/models/Juego.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/models/Juego.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,38 +20,33 @@
       <file leaf-file-name="Desarrolladora.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="187">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JuegoController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/controllers/JuegoController.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Juego.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Juego.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="security.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend-examen2B/config/security.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="DesarrolladoraController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend-examen2B/api/controllers/DesarrolladoraController.js">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Juego.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Juego.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="security.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backend-examen2B/config/security.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -75,9 +64,11 @@
       <list>
         <option value="$PROJECT_DIR$/backend-examen2B/api/models/Estudiante.js" />
         <option value="$PROJECT_DIR$/backend-examen2B/api/models/Libro.js" />
-        <option value="$PROJECT_DIR$/backend-examen2B/api/models/Juego.js" />
         <option value="$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js" />
         <option value="$PROJECT_DIR$/backend-examen2B/config/security.js" />
+        <option value="$PROJECT_DIR$/backend-examen2B/.tmp/localDiskDb/desarrolladora.db" />
+        <option value="$PROJECT_DIR$/backend-examen2B/.tmp/localDiskDb/juego.db" />
+        <option value="$PROJECT_DIR$/backend-examen2B/api/models/Juego.js" />
       </list>
     </option>
   </component>
@@ -118,35 +109,6 @@
               <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
               <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
-              <item name=".tmp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
-              <item name=".tmp" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
-              <item name=".tmp" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="dependencies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
-              <item name=".tmp" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
@@ -251,21 +213,22 @@
       <option name="presentableId" value="Default" />
       <updated>1531277426616</updated>
       <workItem from="1531277427787" duration="4695000" />
-      <workItem from="1531318979131" duration="5080000" />
+      <workItem from="1531318979131" duration="5683000" />
+      <workItem from="1531334396192" duration="3528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9775000" />
+    <option name="totallyTimeSpent" value="13906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2590879" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25842696" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -278,6 +241,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +251,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Juego.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/security.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -303,11 +288,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/assets/dependencies/sails.io.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/tasks/config/babel.js">
@@ -315,22 +296,10 @@
         <state relative-caret-position="-153" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/config/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-254" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/custom.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/config/blueprints.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -341,9 +310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-280" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/views.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/config/models.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -360,16 +326,9 @@
         <state relative-caret-position="-918" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/.tmp/public/styles/importer.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/.tmp/public/dependencies/sails.io.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24764">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-24764" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/assets/styles/importer.less">
@@ -382,38 +341,46 @@
         <state relative-caret-position="-6117" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/.sailsrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/tasks/pipeline.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-621" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/api/controllers/DesarrolladoraController.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/controllers/JuegoController.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Juego.js">
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/.tmp/localDiskDb/desarrolladora.db">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/.tmp/localDiskDb/juego.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="256" selection-start-line="1" selection-start-column="158" selection-end-line="1" selection-end-column="256" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend-examen2B/config/security.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Juego.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="22" />
         </state>
       </provider>
     </entry>
