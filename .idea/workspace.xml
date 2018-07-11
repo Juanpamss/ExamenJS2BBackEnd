@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f230c369-81b3-4fad-9005-877ad84d6f58" name="Default" comment="" />
+    <list default="true" id="f230c369-81b3-4fad-9005-877ad84d6f58" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/controllers/EstudianteController.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/controllers/DesarrolladoraController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/controllers/LibroController.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/controllers/JuegoController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/models/Estudiante.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-examen2B/api/models/Libro.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/api/models/Juego.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-examen2B/config/security.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/config/security.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-examen2B/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-examen2B/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-examen2B/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,26 +22,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Estudiante.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Estudiante.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Desarrolladora.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            <state relative-caret-position="68">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Libro.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Libro.js">
+      <file leaf-file-name="JuegoController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/controllers/JuegoController.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="DesarrolladoraController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/controllers/DesarrolladoraController.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Juego.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Juego.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+            <state relative-caret-position="561">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="security.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend-examen2B/config/security.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>documents</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,9 +73,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/backend-examen2B/config/security.js" />
         <option value="$PROJECT_DIR$/backend-examen2B/api/models/Estudiante.js" />
         <option value="$PROJECT_DIR$/backend-examen2B/api/models/Libro.js" />
+        <option value="$PROJECT_DIR$/backend-examen2B/api/models/Juego.js" />
+        <option value="$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js" />
+        <option value="$PROJECT_DIR$/backend-examen2B/config/security.js" />
       </list>
     </option>
   </component>
@@ -61,7 +96,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="950" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -87,6 +123,35 @@
               <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
               <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name=".tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name=".tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name=".tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="dependencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name=".tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -94,7 +159,59 @@
               <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
               <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="dependencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="env" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenJS2BBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenJS2BBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="backend-examen2B" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,7 +221,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExamenJS2B" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -131,29 +251,30 @@
       <option name="presentableId" value="Default" />
       <updated>1531277426616</updated>
       <workItem from="1531277427787" duration="4695000" />
+      <workItem from="1531318979131" duration="5080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4695000" />
+    <option name="totallyTimeSpent" value="9775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2590879" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32627118" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -166,24 +287,133 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/security.js">
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        <state relative-caret-position="578">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Libro.js">
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Juego.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="442">
           <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Estudiante.js">
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/assets/dependencies/sails.io.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        <state relative-caret-position="-459">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/tasks/config/babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/custom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/blueprints.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-373" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/views.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/models.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1779" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/.tmp/public/styles/importer.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/.tmp/public/dependencies/sails.io.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24764">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/assets/styles/importer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/env/production.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6117" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/.sailsrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/tasks/pipeline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-621" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Desarrolladora.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/controllers/DesarrolladoraController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/controllers/JuegoController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/api/models/Juego.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend-examen2B/config/security.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
         </state>
       </provider>
     </entry>
